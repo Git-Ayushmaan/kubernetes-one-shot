@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1762241078,,"wq"
+|2,0,1762242876,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,30 +23,47 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	:
+|3,1,36,0,1,0,1762242781,":"
 
 # File marks:
-'0  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
-|4,48,1,0,1762241078,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
-'1  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
-|4,49,1,0,1762241028,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
-'2  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
-|4,50,1,0,1762241017,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
-'3  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
-|4,51,1,0,1762241017,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
-'4  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,52,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
-'5  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,53,1,166,1762237771,"~/kubernetes-in-one-shot/nginx/pod.yaml"
-'6  12  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,54,12,0,1762237771,"~/kubernetes-in-one-shot/nginx/pod.yaml"
-'7  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,55,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
-'8  19  20  ~/kind-cluster/config.yaml
-|4,56,19,20,1762233147,"~/kind-cluster/config.yaml"
-'9  1  403  ~/kind-cluster/config.yaml
-|4,57,1,403,1762233060,"~/kind-cluster/config.yaml"
+'0  21  30  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,48,21,30,1762242876,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+'1  1  101  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,49,1,101,1762242787,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+'2  7  10  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,50,7,10,1762242787,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+'3  1  335  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,51,1,335,1762242648,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+'4  1  335  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,52,1,335,1762242648,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+'5  24  15  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,53,24,15,1762242648,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+'6  24  15  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,54,24,15,1762242648,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+'7  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,55,1,0,1762241078,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+'8  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,56,1,0,1762241078,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+'9  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,57,1,0,1762241078,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
 
 # Jumplist (newest first):
+-'  21  30  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,39,21,30,1762242876,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+-'  1  101  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,39,1,101,1762242813,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+-'  7  10  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,39,7,10,1762242787,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+-'  24  15  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,39,24,15,1762242773,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+-'  24  15  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,39,24,15,1762242648,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+-'  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,39,1,0,1762241719,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
+-'  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
+|4,39,1,0,1762241719,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
 -'  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
 |4,39,1,0,1762241078,"~/kubernetes-in-one-shot/nginx/deployment.yaml"
 -'  1  0  ~/kubernetes-in-one-shot/nginx/deployment.yaml
@@ -69,6 +86,118 @@
 |4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
 -'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
 |4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  11  26  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,11,26,1762238116,"~/kubernetes-in-one-shot/nginx/pod.yaml"
 -'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
 |4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
 -'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
@@ -85,174 +214,59 @@
 |4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
 -'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
 |4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  12  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,12,0,1762237771,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  12  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,12,0,1762237771,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  12  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,12,0,1762237771,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  12  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,12,0,1762237771,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  12  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,12,0,1762237771,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  12  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,12,0,1762237771,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  12  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,12,0,1762237771,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  12  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,12,0,1762237771,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,1,0,1762237432,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,1,0,1762237432,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,1,0,1762237432,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,1,0,1762237432,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,1,0,1762237432,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,1,0,1762237432,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,1,0,1762237432,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/pod.yaml
-|4,39,1,0,1762237432,"~/kubernetes-in-one-shot/nginx/pod.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  4  14  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,4,14,1762237010,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/namespace.yaml
-|4,39,1,0,1762236823,"~/kubernetes-in-one-shot/nginx/namespace.yaml"
--'  19  20  ~/kind-cluster/config.yaml
-|4,39,19,20,1762233147,"~/kind-cluster/config.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
+-'  1  166  ~/kubernetes-in-one-shot/nginx/pod.yaml
+|4,39,1,166,1762238080,"~/kubernetes-in-one-shot/nginx/pod.yaml"
 
 # History of marks within files (newest to oldest):
 
 > ~/kubernetes-in-one-shot/nginx/deployment.yaml
-	*	1762241076	0
-	"	1	0
+	*	1762242874	0
+	"	21	30
+	^	21	31
+	.	21	30
+	+	1	91
+	+	1	158
+	+	1	234
+	+	1	279
+	+	1	346
+	+	1	203
+	+	1	335
+	+	1	101
+	+	21	30
 
 > ~/kubernetes-in-one-shot/nginx/pod.yaml
 	*	1762238114	0
